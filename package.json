@@ -1,0 +1,19 @@
+{
+  "name": "sum-math-deo",
+  "version": "1.0.0",
+  "description": "my package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuandieu1210/sum-math.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuandieu1210/sum-math/issues"
+  },
+  "homepage": "https://github.com/xuandieu1210/sum-math#readme",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xuandieu1210",
+  "license": "ISC"
+}
