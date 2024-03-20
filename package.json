@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuandieu1210/sum-math.git"
+    "url": "https://github.com/xuandieu1210/math-sum-deo.git"
   },
   "bugs": {
-    "url": "https://github.com/xuandieu1210/sum-math/issues"
+    "url": "https://github.com/xuandieu1210/math-sum-deo/issues"
   },
-  "homepage": "https://github.com/xuandieu1210/sum-math#readme",
+  "homepage": "https://github.com/xuandieu1210/math-sum-deo#readme",
   "scripts": {
     "test": "test"
   },
